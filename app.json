@@ -1,30 +1,30 @@
 {
     "name": "Auto Renamer Bot",
     "description": "Telegram Auto File Renamer Bot ",
-    "logo": "https://graph.org/file/2f461540c83b362772714.jpg",
+    "logo": "https://telegra.ph/file/037cd53fdb05e6e38fc46.jpg",
     "keywords": ["Auto Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/JishuDeveloper/Auto-Rename-Bot",
+    "repository": "https://github.com/GoddGoku/Auto-Rename-Bot",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "19863702"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "6d48cb362a97a43cfc944fd5c0f917f9"
         },
         "WEBHOOK": {
             "description": "if your server is need web service! value = True else value = False",
             "value": "False"
         },
         "FORCE_SUB": {
-            "description": "Your force sub channel user name without [@] ",
-            "value": "",
+            "description": Your force sub channel user name without [@] ",
+            "value": "Anime_Fair",
             "required": false 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "7135059484:AAEqWKX-p-OgZsKM4fd7fkPAJoKeLGaYAV0"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
@@ -35,16 +35,16 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://hmXgoku:dxaisop123@cluster0.kabgkzr.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "",
+            "value": "cluster0",
             "required": false
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "",
+            "value": "https://telegra.ph/file/c8a25cc0f2c9e3b85bc87.jpg",
             "required": false
         }
     },
