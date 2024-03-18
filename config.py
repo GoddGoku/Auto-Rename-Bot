@@ -35,7 +35,7 @@ class Txt(object):
     
 ➻ Use /tutorial Command To Know How To Use Me.
     
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @Badgoku</b>"""
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
 
@@ -44,7 +44,7 @@ Use These Keywords To Setup Custom File Name
 ✓ episode :- To Replace Episode Number
 ✓ quality :- To Replace Video Resolution
 
-<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @Madflix_Bots </code>
+<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @Anime_Fair </code>
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
@@ -52,8 +52,8 @@ Use These Keywords To Setup Custom File Name
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/Anime_Fair'>Anime Fair</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/BadGoku'>Goku</a>
     
 <b>♻️ Bot Made By :</b> @Madflix_Bots"""
 
